@@ -1,0 +1,13 @@
+
+¡Hola profe! 👋
+
+Primero que todo, quiero contarle que sí hice el bootstrap de forma normal, 
+pero luego me dio un poquito de pereza cambiar las rutas de los archivos. 😅
+
+Por eso, el bootstrap no está en la carpeta "bootstrap-workshop", pero no se preocupe,
+ lo tengo en la carpeta principal. De esta manera, puedo hacer deploy en Pages sin 
+ tener que configurar cosas en GitHub (¡y evitarme un derrame cerebral!). 😉
+
+Espero que no le moleste este pequeño cambio. 🙏
+
+PD: Si necesita que mueva el bootstrap a la otra carpeta, no hay problema, ¡solo dígame! 😄
